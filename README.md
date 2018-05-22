@@ -3,7 +3,7 @@
 #### _Triangle Tracker website, 03/22/2018_
 
 ## Description
-This website asks the user to input three integers, representing the three sides of a triangle, and then evaluates those inputs to determine the triangle type. Inputs which are not possible result in an error message. 
+This website asks the user to input three integers, representing the three sides of a triangle, and then evaluates those inputs to determine the triangle type. Inputs which are not possible result in an error message.
 
 ## Setup/Installation
 * _Clone the repository from Github._
@@ -17,5 +17,4 @@ This website asks the user to input three integers, representing the three sides
 * _jQuery_
 
 ### License
-_Copyright (c) 2018 Azamat Bekmuratov, Andrew Lupton_
 _This software is licensed under the GPL license._
